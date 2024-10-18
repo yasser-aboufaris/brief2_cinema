@@ -30,18 +30,18 @@ nav ul li {
 }
 .vertical-line {
     position:absolute;
-    top:30px;
+    top:20px;
     margin-left: 33.33%;
     width: 2px; 
-    height: 200px; 
+    height: 100px; 
     background-color: rgb(255, 255, 255); 
 }
 .vertical-line2 {
     position:absolute;
-    top:30px;
+    top: 20px;
     margin-left: 66.333%;
     width: 2px;     
-    height: 200px; 
+    height: 110px; 
     background-color: rgb(255, 255, 255); 
 
 }
